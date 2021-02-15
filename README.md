@@ -1,7 +1,7 @@
 # Dit is de Repository voor de BO opdrachten
 
 ## Live Website
-Link naar de Website: 30921.hosts1.ma-cloud.nl/les2A/testMyApi.html
+Link naar de Website: https://30921.hosts1.ma-cloud.nl/les2A/testMyApi.html
 
 ## Installatie
 
